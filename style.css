@@ -6,23 +6,23 @@
 
 :root {
   --text-color: white; 
-  --bg-url: url(imagens/mobile/background\ dark.jpg);
+  --bg-url: url(mobile/background/dark.jpg);
   --border-ul: rgba(255, 255, 255, 0.5);
   --background-ul: rgba(255, 255, 255, 0.1);
   --background-ul-hover: rgba(255, 255, 255, 0.05);
   --background-social-hover: rgba(255, 255, 255, 0.2);
-  --button-url: url(imagens/moon-stars.svg);
+  --button-url: url(moon-stars.svg);
 
 }
 
 .light{ 
   --text-color: black;  
-  --bg-url: url(imagens/mobile/background\ light.jpg);
+  --bg-url: url(mobile/background/light.jpg);
   --border-ul: rgba(0, 0, 0, 0.5);
   --background-ul: rgba(0, 0, 0, 0.05);
   --background-ul-hover: rgba(0, 0, 0, 0.02);
   --background-social-hover: rgba(0, 0, 0, 0.1);
-  --button-url: url(imagens/sun.svg);
+  --button-url: url(sun.svg);
 }
 
 body {
@@ -156,11 +156,11 @@ footer{
 
 @media (min-width = 700px) {
   :root {
-    --bg-url: url(imagens/desktop/background\ dark.jpg);
+    --bg-url: url(desktop/background\ dark.jpg);
   }
 
   .light {
-    --bg-url: url(imagens/desktop/background\ light.jpg);
+    --bg-url: url(desktop/background\ light.jpg);
   }
 
 }
