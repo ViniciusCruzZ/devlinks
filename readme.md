@@ -20,7 +20,7 @@ Projeto desenvolvido com base no Programa exclusivo e gratuito, promovido pela R
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="imagens/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
